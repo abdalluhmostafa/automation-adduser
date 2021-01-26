@@ -3,7 +3,7 @@
 # This script add user and his key and add it to group wheel , also add wheel to sudoers file
 #-------------------------------
 # Created By Abdalluh Mostafa
-# Github : https://github.com/abdalluhmostafa/expose-host
+# Github : https://github.com/abdalluhmostafa/automation-adduser
 #-----------------------------------------------------
 set -e
 read -p 'Enter UserName: ' NEWUSER
